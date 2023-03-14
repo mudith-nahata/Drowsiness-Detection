@@ -8,7 +8,7 @@
   
 ![drowsiness__detection](https://user-images.githubusercontent.com/96544398/224949870-e578e68f-cc10-4ba7-93f5-6f6be473f287.png)
 # How we built it
-We have used a facial landmark detector to identify facial features in order to extract eye and mouth regions, which are the main identifiers for a driver to be lethargic and distracted respectively. A couple of major libraries namely dlib and open-cv in python are used to build our solution.
+We have used a facial landmark detector to identify facial features in order to extract eye, which are the main identifiers for a driver to be lethargic and distracted respectively. A couple of major libraries namely dlib and open-cv in python are used to build our solution.
 # Challenges we ran into
 Distance between the upper and lower regions of eye is used as a parameter for assessing lethargy.Calculation of above statistical parameter that is distance, in order to get the eye-ratio  was a daunting task.
 # Accomplishments that we're proud of
