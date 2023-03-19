@@ -21,4 +21,4 @@ We have explored the realms of computer vision and realized how the similar thou
 # Done by:
 Mudith Nahata:https://github.com/mudith-nahata
 
-Owais Musharauf:https://github.com/Owais9403
+Owais Akram:https://github.com/Owais9403
