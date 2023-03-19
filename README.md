@@ -18,3 +18,6 @@ We have successfully accomplished the working prototype of our intention, along 
 We have explored the realms of computer vision and realized how the similar thought-process can be extended to other use-cases which could be very fruitful.
 # Built With
  dlib numpy  opencv  python
+# Done by:
+Mudith Nahata:https://github.com/mudith-nahata
+Owais Musharauf:https://github.com/Owais9403
