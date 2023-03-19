@@ -4,8 +4,9 @@
  According to the Association For Safe International Road Travel along with few other global surveys, there are more than 1.3 million accidents recorded every year, which implies every month on average more than 100,000 lives are lost. In-spite of major enhancements in technology, we still witness such casualties because of irresponsible driving such as being drowsy, distracted, drunk and many more. We identified the necessity of a cost-effective technological model which can prevent accidents and also be accessible from low to middle class sections of the society.
 # What it does
   Our prototype is a creative, compact and cost-effective solution which can seamlessly prevent dangerous accidents in commute by intelligently alerting the driver in     lethargy and distraction and detection  using Computer Vision and also done some of the sample test of the System.
-     
-            ![sample test](https://user-images.githubusercontent.com/96544398/226174103-3ce81bba-4af2-48c6-8da2-de4caa5e7126.png)
+ 
+ ![sample test](https://user-images.githubusercontent.com/96544398/226174136-c9d7e06b-2dbd-4d38-9132-cb263b45bdb0.png)
+
            
 # How we built it
 We have used a facial landmark detector to identify facial features in order to extract eye, which are the main identifiers for a driver to be lethargic and distracted respectively. A couple of major libraries namely dlib and open-cv in python are used to build our solution.
